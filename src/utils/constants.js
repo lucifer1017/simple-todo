@@ -1,0 +1,1 @@
+export const BG_VIDEO = "https://www.uni.cards/videos/nxt_wave_bg.mp4"; 
